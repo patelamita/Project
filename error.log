@@ -1,0 +1,533 @@
+Error loading model: [09:39:40] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:39:40] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:40:14] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:40:14] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:40:18] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:40:18] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:40:53] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:40:53] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:40:53] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:40:53] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:41:11] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:41:11] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:41:13] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:41:13] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:41:18] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:41:18] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:41:19] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:41:19] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:47:34] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:47:34] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: [09:49:05] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 95, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\joblib\numpy_pickle.py", line 402, in load_build
+    Unpickler.load_build(self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1710, in load_build
+    setstate(state)
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 1266, in __setstate__
+    _check_call(
+  File "F:\New\laptop-price-predicton-project-main\venv\Lib\site-packages\xgboost\core.py", line 210, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [09:49:05] C:/Users/Administrator/workspace/xgboost-win64_release_1.4.0/src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Error loading model: No module named 'sklearn'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+Error loading model: No module named 'sklearn.ensemble._gb_losses'
+Traceback (most recent call last):
+  File "C:\project\laptop-price-predictor-regression-project-main\app.py", line 20, in <module>
+    pipe = joblib.load('pipe.pkl')
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 658, in load
+    obj = _unpickle(fobj, filename, mmap_mode)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\project\laptop-price-predictor-regression-project-main\myenv\Lib\site-packages\joblib\numpy_pickle.py", line 577, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1205, in load
+    dispatch[key[0]](self)
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1530, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pickle.py", line 1572, in find_class
+    __import__(module, level=0)
+ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
